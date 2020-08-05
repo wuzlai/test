@@ -1,4 +1,4 @@
 here  
-please choose cef_binary_83.5.0+gbf03589+chromium-83.0.4103.106_windows32
+please choose cef_binary_83.5.0+gbf03589+chromium-83.0.4103.106_windows64
 
 only neef Realease and Resources folder
